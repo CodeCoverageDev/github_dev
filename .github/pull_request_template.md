@@ -8,5 +8,5 @@ Add more content to describe the changes..
 [Example](www.google.com)
 
 ### Checks
-- [] Tested Changes
-- [] Stakeholder Approval
+- [ ] Tested Changes
+- [ ] Stakeholder Approval
